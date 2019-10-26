@@ -1,9 +1,9 @@
 {
-  "main.css": "/organiser/static/css/main.c96bac5e.css",
-  "main.js": "/organiser/static/js/main.49106055.js",
-  "main.css.map": "/organiser/static/css/main.c96bac5e.css.map",
-  "main.js.map": "/organiser/static/js/main.49106055.js.map",
-  "index.html": "/organiser/index.html",
-  "static/media/kotlin.svg": "/organiser/static/media/kotlin.fe42529a.svg",
-  "static/media/react.svg": "/organiser/static/media/react.5d5d9eef.svg"
+  "main.css": "/organiser_beta/static/css/main.c96bac5e.css",
+  "main.js": "/organiser_beta/static/js/main.726532c1.js",
+  "main.css.map": "/organiser_beta/static/css/main.c96bac5e.css.map",
+  "main.js.map": "/organiser_beta/static/js/main.726532c1.js.map",
+  "index.html": "/organiser_beta/index.html",
+  "static/media/kotlin.svg": "/organiser_beta/static/media/kotlin.fe42529a.svg",
+  "static/media/react.svg": "/organiser_beta/static/media/react.5d5d9eef.svg"
 }
